@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Security Architecture                           | <a href="https://google.com">Detection Lab</a>|
+| Security Architecture                           | <a href="https://github.com/ch1n4x4/Secure-System-Architecture/tree/main">Security Architecture</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | securing AWS services through automation        | <a href="https://google.com">Detection Lab</a>|
 | Security Operations (SecOps)                    | <a href="https://google.com">Detection Lab</a>|
