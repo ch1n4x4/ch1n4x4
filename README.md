@@ -58,9 +58,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Secure System Architecture design
-- Web Penetration Testing
-- Vulnerability Assessment
-- Network Simulation
-- Endpoint monitoring
-- Firewall configuration and Implementation
+- <a href = "https://github.com/ch1n4x4/Secure-System-Architecture/tree/main">Security Architecture</a>
+- <a href = "https://github.com/ch1n4x4/AWS-CONTINOUS-COMPLIANCE-AND-CHANGE-MANAGEMENT">AWS Continuous Compliance and change management</a>
+- <a href = "https://github.com/ch1n4x4/Active-Directory-vulnerability-assessment">LLMNR Vulnerability Assessment</a>
+- <a href = "https://github.com/ch1n4x4/Ntwork-simulation">Network simulation</a>
+- <a href = "https://github.com/ch1n4x4/wazuh-lab">Endpoint monitoring</a>
+- <a href = "https://github.com/ch1n4x4/Sophos-Lab">Firewall configuration and Implementation</a>
+- <a href = "https://github.com/ch1n4x4/Hacktify-Pentester-Intern">Hacktify Internship</a>
+- <a href = "https://github.com/ch1n4x4/Security-Monitoring-System-AWS/tree/main">Cloud Security Monitoring</a>
+- <a href = "https://github.com/ch1n4x4/VA-Mentorship-project/blob/main/README.md">Victor Akinode Mentorship Project</a>
