@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | securing AWS services through automation        | <a href="https://github.com/ch1n4x4/Security-Monitoring-System-AWS/tree/main">Cloud Sec Monitoring</a>|
 | Security Operations (SecOps)                    | <a href="https://github.com/ch1n4x4/wazuh-lab">Wazuh Lab</a>|
 | Penetration Testing                             | <a href="https://github.com/ch1n4x4/Hacktify-Pentester-Intern/tree/main">Pentesting labs</a>|
-| Scripting and Automation for Threat Mitigation  | <a href="https://google.com">Detection Lab</a>|
+| Scripting and Automation for Threat Mitigation  | <a href="####">####</a>|
 
 ## Tools
 
