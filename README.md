@@ -68,3 +68,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href = "https://github.com/ch1n4x4/Security-Monitoring-System-AWS/tree/main">Cloud Security Monitoring</a>
 - <a href = "https://github.com/ch1n4x4/VA-Mentorship-project/blob/main/README.md">Victor Akinode Mentorship Project</a>
 - <a href = "https://github.com/ch1n4x4/ARP-Spoofing">ARP Spoofing</a>
+- <a href = "https://github.com/ch1n4x4/Secure-System-Architecture2/blob/main/README.md">Secure Architecture 2</a>
+- <a href = "https://github.com/ch1n4x4/bash-script">Bash scripting</a>
