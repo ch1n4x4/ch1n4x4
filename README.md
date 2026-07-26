@@ -2,7 +2,10 @@
 <a href="https://linkedin.com/in/chinaza-nnamani"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am Currently studying Computer Science with hands-on Cybersecurity experience from Altschool Africa, Hacktify Cyber Security and various side-projects. Skilled in Kali Linux, Security Engineering, and Penetration Testing using various tools.I've completed various hands-on real world projects and labs. I'm passionate about Securing Systems and digital assets through proactive vulnerability discovery, exploitation and mitigation with emphasis in PenTesting
+I am Currently working as a Cloud Security Consultant at Amdari, I specialize in bridging the gap between robust cloud infrastructure and dynamic threat defense. My focus is on engineering secure, resilient cloud environments and automating incident response to stay ahead of evolving vulnerabilities.
+I design, deploy, and manage automated security tracking and remediation pipelines across modern cloud environments. From engineering incident response playbooks to provisioning secure, multi-tier cloud modernization frameworks, I ensure that cloud infrastructure is secure by design and compliant by default.
+
+
 
 ## Objective
 
