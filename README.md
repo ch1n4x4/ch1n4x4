@@ -9,7 +9,8 @@ I design, deploy, and manage automated security tracking and remediation pipelin
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Red Team or a Security analyst department 
+My journey in cloud and App Security has led to bridging the gap between offensive vulnerability assessment and robust defensive architecture. From identifying exploits as a penetration tester to engineering DevSecOps pipelines and implementing automated threat detection with Microsoft Sentinel, I have developed a deep appreciation for building security directly into the deployment lifecycle.
+Now I am focused on scaling secure infrastructure as code (IaC) using Terraform and modernizing cloud environments. I am using this space to showcase projects that tackle real-world challenges—like securing vulnerable web platforms and configuring scalable IAM—while seeking opportunities to help forward-thinking teams build resilient, cloud-native environments.
 
 ## Skills
 
