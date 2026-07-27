@@ -25,6 +25,15 @@ Now I am focused on scaling secure infrastructure as code (IaC) using Terraform 
 
 ## Tools
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+    
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -55,7 +64,6 @@ Now I am focused on scaling secure infrastructure as code (IaC) using Terraform 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-ISC2%20CC-005191?&style=for-the-badge&logo=isc2&logoColor=white" />
 
