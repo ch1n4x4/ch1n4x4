@@ -14,14 +14,15 @@ Now I am focused on scaling secure infrastructure as code (IaC) using Terraform 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Security Architecture                           | <a href="https://github.com/ch1n4x4/Secure-System-Architecture/tree/main">Security Architecture</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ch1n4x4/Ntwork-simulation">Network simulation</a>|
-| securing AWS services through automation        | <a href="https://github.com/ch1n4x4/Security-Monitoring-System-AWS/tree/main">Cloud Sec Monitoring</a>|
-| Security Operations (SecOps)                    | <a href="https://github.com/ch1n4x4/wazuh-lab">Wazuh Lab</a>|
-| Penetration Testing                             | <a href="https://github.com/ch1n4x4/Hacktify-Pentester-Intern/tree/main">Pentesting labs</a>|
-| Scripting and Automation for Threat Mitigation  | <a href="####">####</a>|
+| Secure Infrastructure and Architecture          | <a href="https://github.com/ch1n4x4/">####</a>|
+| Automation and Orchestration                    | <a href="https://github.com/ch1n4x4/">####</a>|
+| Identity and Access Management(IAM)             | <a href="https://github.com/ch1n4x4/">####</a>|
+| Security Operations (SecOps)                    | <a href="https://github.com/ch1n4x4/">####</a>|
+| Threat Detection & SIEM Operations              | <a href="https://github.com/ch1n4x4/">####</a>|
+| Governance, Risk and Compliance(GRC)            | <a href="https://github.com/ch1n4x4/">####</a>|
+| Penetration Testing                             | <a href="https://github.com/ch1n4x4/">####</a>|
 
 ## Tools
 
