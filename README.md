@@ -17,7 +17,7 @@ Now I am focused on scaling secure infrastructure as code (IaC) using Terraform 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | Secure Infrastructure and Architecture          | <a href="https://github.com/ch1n4x4/">####</a>|
-| Automation and Orchestration                    | <a href="https://github.com/ch1n4x4/">####</a>|
+| Automation and Orchestration                    | <a href="https://github.com/ch1n4x4/Cloud-Threat-Detection-and-Automated-Response-with-Microsoft-Sentinel/">Cloud Threat Detection and Automated Response</a>|
 | Identity and Access Management(IAM)             | <a href="https://github.com/ch1n4x4/">####</a>|
 | Security Operations (SecOps)                    | <a href="https://github.com/ch1n4x4/">####</a>|
 | Threat Detection & SIEM Operations              | <a href="https://github.com/ch1n4x4/">####</a>|
@@ -70,7 +70,7 @@ Now I am focused on scaling secure infrastructure as code (IaC) using Terraform 
 
 </div>
 
-## Projects
+## Other Projects
 - <a href = "https://github.com/ch1n4x4/Secure-System-Architecture/tree/main">Security Architecture</a>
 - <a href = "https://github.com/ch1n4x4/AWS-CONTINOUS-COMPLIANCE-AND-CHANGE-MANAGEMENT">AWS Continuous Compliance and change management</a>
 - <a href = "https://github.com/ch1n4x4/Active-Directory-vulnerability-assessment">LLMNR Vulnerability Assessment</a>
