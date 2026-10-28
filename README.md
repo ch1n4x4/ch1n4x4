@@ -1,7 +1,7 @@
 # Hello, I'm Chinaza
 <a href="https://linkedin.com/in/chinaza-nnamani"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently working as a Cloud Security Consultant at Amdari, where I specialize in bridging the gap between robust cloud infrastructure and dynamic threat defense. My focus is on engineering secure, resilient cloud environments and automating incident response to stay ahead of evolving vulnerabilities.
+I am currently working as a Cloud Security Analyst at Amdari, where I specialize in bridging the gap between robust cloud infrastructure and dynamic threat defense. My focus is on engineering secure, resilient cloud environments and automating incident response to stay ahead of evolving vulnerabilities.
 
 I design, deploy, and manage automated security tracking and remediation pipelines across modern cloud environments. From engineering incident response playbooks to provisioning secure, multi-tier cloud modernization frameworks, I ensure that cloud infrastructure is secure by design and compliant by default.
 
