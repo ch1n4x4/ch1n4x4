@@ -91,7 +91,7 @@ Now, I am focused on scaling secure Infrastructure as Code (IaC) using Terraform
 
 ---
 
-## Featured Projects & Complete Repository Index (19 Projects)
+## Featured Projects & Complete Repository Index (20 Projects)
 
 ### 1. Cloud Security, DevSecOps & Infrastructure as Code
 1. **[SentinelPay – End-to-End DevSecOps, AppSec & Cloud Infrastructure](https://github.com/ch1n4x4/Sentinelpay):** Engineered a multi-tier AWS cloud architecture using modular Terraform (`compute`, `network`, `rds`, `kms`, `edge`, `identity-center`, `github-oidc`, `secrets-rotation`, and `detection` with CloudTrail, AWS Config CIS v1.4 Level 2, GuardDuty, Security Hub, Honeytokens, and quarantine Lambda). Enforced OPA Rego Policy-as-Code (`encryption`, `iam_wildcard`, `network_ingress`, `s3_public`), built GitHub Actions CI pipelines with Gitleaks and Trivy, and remediated critical vulnerabilities (SQLi, SSRF, IDOR, Broken JWT, Insecure Deserialization, Mass Assignment, Race Conditions, and Weak Hashing) across containerized Python microservices (`payments-api` and `kyc-api`) verified via OWASP ZAP.
@@ -101,19 +101,20 @@ Now, I am focused on scaling secure Infrastructure as Code (IaC) using Terraform
 5. **[AWS Cloud Security Monitoring System](https://github.com/ch1n4x4/Security-Monitoring-System-AWS/tree/main):** Designed and deployed an automated cloud security monitoring and alerting architecture on AWS.
 6. **[Implementing Scalable Identity & Access Management (IAM)](https://github.com/ch1n4x4/Implementing-Scalable-Identity-Access-Management-IAM-):** Architected and verified scalable, least-privilege IAM policies, roles, and access controls.
 7. **[DevOps Directive – GitHub Actions CI/CD Automation](https://github.com/ch1n4x4/devops-directive-github-actions-course):** Built 24 GitHub Actions workflows covering triggers, matrix builds, artifact caching, fine-grained permissions, third-party authentication, reusable workflows, and custom Composite, JavaScript, and Docker Container Actions.
+8. **[AltPay Cloud Project](https://github.com/ch1n4x4/AltPayCloudProject/tree/main):** Designed, deployed, and hardened a secure three-tier web application on AWS using Terraform within the eu-west-1 region to comply with EU GDPR and African data protection regulations. It implemented robust security controls, including public/private subnet segmentation, least-privilege IAM roles, KMS envelope encryption, AWS WAFv2 edge protection, and comprehensive CloudTrail and VPC Flow Logging.
 
 ### 2. Security Architecture & SecOps Labs
-8. **[Secure System Architecture – PayLink Net](https://github.com/ch1n4x4/Secure-System-Architecture/tree/main):** Designed a defense-in-depth, multi-tier network security architecture (`Improved_PAYLINK_NET.drawio`) with comprehensive architectural improvements.
-9. **[Secure System Architecture 2 – Meridian Power Grid](https://github.com/ch1n4x4/Secure-System-Architecture2/blob/main/README.md):** Developed a critical infrastructure security architecture and visual network topology for the Meridian Power Grid scenario.
-10. **[Wazuh Endpoint Monitoring Lab](https://github.com/ch1n4x4/wazuh-lab):** Deployed and configured Wazuh for endpoint security monitoring, log analysis, and threat detection.
-11. **[Sophos Firewall Configuration & Implementation](https://github.com/ch1n4x4/Sophos-Lab):** Configured enterprise firewall rules, network segmentation, and traffic filtering policies in Sophos.
-12. **[Enterprise Network Simulation](https://github.com/ch1n4x4/Ntwork-simulation):** Built and tested network topologies and routing security controls in a simulated environment.
+9. **[Secure System Architecture – PayLink Net](https://github.com/ch1n4x4/Secure-System-Architecture/tree/main):** Designed a defense-in-depth, multi-tier network security architecture (`Improved_PAYLINK_NET.drawio`) with comprehensive architectural improvements.
+10. **[Secure System Architecture 2 – Meridian Power Grid](https://github.com/ch1n4x4/Secure-System-Architecture2/blob/main/README.md):** Developed a critical infrastructure security architecture and visual network topology for the Meridian Power Grid scenario.
+11. **[Wazuh Endpoint Monitoring Lab](https://github.com/ch1n4x4/wazuh-lab):** Deployed and configured Wazuh for endpoint security monitoring, log analysis, and threat detection.
+12. **[Sophos Firewall Configuration & Implementation](https://github.com/ch1n4x4/Sophos-Lab):** Configured enterprise firewall rules, network segmentation, and traffic filtering policies in Sophos.
+13. **[Enterprise Network Simulation](https://github.com/ch1n4x4/Ntwork-simulation):** Built and tested network topologies and routing security controls in a simulated environment.
 
 ### 3. Penetration Testing, Offensive Security & Scripting
-13. **[VA Initiatives Ethical Hacking Capstone](https://github.com/ch1n4x4/VA-Mentorship-Ethical-Hacking-Capstone):** Conducted end-to-end web application penetration testing and authored Python-based SQL injection remediation (`SQL_remediation.py`).
-14. **[Victor Akinode Mentorship Project](https://github.com/ch1n4x4/VA-Mentorship-project/blob/main/README.md):** Executed offensive security assessments, vulnerability exploitation, and remediation documentation.
-15. **[Hacktify Penetration Testing Internship](https://github.com/ch1n4x4/Hacktify-Pentester-Intern):** Performed web application vulnerability assessments, exploit verification, and technical remediation reporting.
-16. **[Active Directory & LLMNR Vulnerability Assessment](https://github.com/ch1n4x4/Active-Directory-vulnerability-assessment):** Assessed Active Directory environments for LLMNR poisoning and domain privilege escalation vectors.
-17. **[Reconnaissance & Footprinting](https://github.com/ch1n4x4/RECONNAISSANCE-AND-FOOTPRINTING/tree/main):** Executed structured OSINT, network footprinting, and reconnaissance reporting.
-18. **[ARP Spoofing Demonstration](https://github.com/ch1n4x4/ARP-Spoofing):** Demonstrated man-in-the-middle (MITM) ARP spoofing mechanics, packet capture analysis, and network mitigation techniques.
-19. **[Bash Scripting for Reconnaissance & Automation](https://github.com/ch1n4x4/bash-script):** Authored 17 custom Bash scripts (`recon.sh`, `interactive_recon.sh`, `system_recon.sh`, `quickinfo.sh`, `menu.sh`, etc.) to automate system enumeration and reconnaissance.
+14. **[VA Initiatives Ethical Hacking Capstone](https://github.com/ch1n4x4/VA-Mentorship-Ethical-Hacking-Capstone):** Conducted end-to-end web application penetration testing and authored Python-based SQL injection remediation (`SQL_remediation.py`).
+15. **[Victor Akinode Mentorship Project](https://github.com/ch1n4x4/VA-Mentorship-project/blob/main/README.md):** Executed offensive security assessments, vulnerability exploitation, and remediation documentation.
+16. **[Hacktify Penetration Testing Internship](https://github.com/ch1n4x4/Hacktify-Pentester-Intern):** Performed web application vulnerability assessments, exploit verification, and technical remediation reporting.
+17. **[Active Directory & LLMNR Vulnerability Assessment](https://github.com/ch1n4x4/Active-Directory-vulnerability-assessment):** Assessed Active Directory environments for LLMNR poisoning and domain privilege escalation vectors.
+18. **[Reconnaissance & Footprinting](https://github.com/ch1n4x4/RECONNAISSANCE-AND-FOOTPRINTING/tree/main):** Executed structured OSINT, network footprinting, and reconnaissance reporting.
+19. **[ARP Spoofing Demonstration](https://github.com/ch1n4x4/ARP-Spoofing):** Demonstrated man-in-the-middle (MITM) ARP spoofing mechanics, packet capture analysis, and network mitigation techniques.
+20. **[Bash Scripting for Reconnaissance & Automation](https://github.com/ch1n4x4/bash-script):** Authored 17 custom Bash scripts (`recon.sh`, `interactive_recon.sh`, `system_recon.sh`, `quickinfo.sh`, `menu.sh`, etc.) to automate system enumeration and reconnaissance.
